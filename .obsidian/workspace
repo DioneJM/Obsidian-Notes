@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c42011dccf9fd9ab",
+        "id": "06b5fd40e5038c22",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "templates/metadata.md",
             "mode": "source"
           }
         }
@@ -77,12 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "templates/metadata.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "templates/metadata.md"
               }
             }
           },
@@ -114,11 +114,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "README.md",
-    "Logs/2020-12-15.md",
-    "to-organise/This is a test note.md",
-    "to-organise/2020-12-15.md",
+    "templates/template.md",
+    "to-organise/Untitled 1.md",
+    "templates/another template.md",
     "to-organise/Untitled.md",
-    "Untitled.md"
+    "to-organise/Untitled 2.md",
+    "to-organise/Untitled 4.md",
+    "to-organise/Untitled 5.md",
+    "to-organise/Untitled 3.md",
+    "to-organise/This is a test note.md",
+    "to-organise/template.md"
   ]
 }

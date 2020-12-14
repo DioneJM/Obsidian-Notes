@@ -1,0 +1,2 @@
+## Clef
+A Cleff assigns the placement of musical notes on the lines/spaces of a [[Staff]]. Two common cleffs are the [[Treble Clef]] and [[Bass Clef]]. It is common for both of these clefs to be combined together to form a [[Grand Staff]]
