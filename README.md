@@ -1,2 +1,4 @@
 # Obsidian-Notes
 Welcome to my collection of public notes. All notes here were written using [Obsidian](https://obsidian.md/) a cool graph-based notetaking app.
+
+I decided to make this repo public to "Work with the garage door open". I'd call myself a pretty closed off person who's only comfortable sharing things that are finished or have reached a certain standard that I am happy with. The aim of working with the garage door open is to slowly make myself be more open to sharing my process and thinking as that is something that I'd like to work towards in both my personal and professional life.
