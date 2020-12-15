@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/metadata.md",
+            "file": "Logs/2020-12-15.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/metadata.md",
+                "file": "Logs/2020-12-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/metadata.md"
+                "file": "Logs/2020-12-15.md"
               }
             }
           },
@@ -114,6 +114,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Logs/2020-12-15.md",
     "templates/template.md",
     "to-organise/Untitled 1.md",
     "templates/another template.md",
@@ -122,7 +123,6 @@
     "to-organise/Untitled 4.md",
     "to-organise/Untitled 5.md",
     "to-organise/Untitled 3.md",
-    "to-organise/This is a test note.md",
-    "to-organise/template.md"
+    "to-organise/This is a test note.md"
   ]
 }
